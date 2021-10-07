@@ -1,0 +1,19 @@
+.marketplace{
+    display: flex;
+}
+
+.sidepanel{
+    width: 20vw;
+    height: 100vh;
+    background-color: #f1f1f1;
+    border-right: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+}
+
+.listings{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
